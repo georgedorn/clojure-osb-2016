@@ -2,7 +2,7 @@
 
 ## git
 
-Install git by running
+Install the [git](https://git-scm.com/) version control system by running
 
 ```sh
 $ sudo apt-get install git

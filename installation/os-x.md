@@ -9,7 +9,7 @@ Copy-paste the command at the top of the homepage into a Terminal window.
 
 ## git
 
-Once Homebrew is installed, you can install git by running
+Once Homebrew is installed, you can install [git](https://git-scm.com/), the version control system, by running
 
 ```shell
 $ brew update
